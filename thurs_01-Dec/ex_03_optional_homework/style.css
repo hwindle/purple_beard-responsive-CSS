@@ -29,6 +29,13 @@ header h1 {
   font-weight: bold;
 }
 
+span {
+  width: 14px;
+  height: 14px;
+  padding: 1px;
+  padding-right: 2px;
+}
+
 /**** NAVIGATION ****/
 
 #top-nav {
@@ -124,6 +131,13 @@ header h1 {
   padding: 0.3rem;
   font-size: 1.2rem;
   border-radius: 6px;
+}
+
+#search-bar span {
+  width: 24px;
+  height: 24px;
+  padding: 4px;
+  vertical-align: center;
 }
 
 .form-input[type="submit"],
